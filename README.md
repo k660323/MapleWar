@@ -9,7 +9,7 @@
   <img src="https://github.com/k660323/MapleWar/blob/main/Images/%EC%9D%B8%EB%B2%A4%ED%86%A0%EB%A6%AC.PNG" width="49%" height="400"/>
   <img src="https://github.com/k660323/MapleWar/blob/main/Images/%EB%A7%A4%EC%B9%AD%20%EC%A4%80%EB%B9%84.png" width="49%" height="400"/>
   <img src="https://github.com/k660323/MapleWar/blob/main/Images/%EC%A7%84%EC%98%81%20%EC%84%A0%ED%83%9D.JPG" width="49%" height="400"/>
-  <img src="https://github.com/k660323/MapleWar/blob/main/Images/%EC%A0%84%ED%88%AC%20%EC%95%95%EC%B6%95%ED%8E%B8.png" width="99%" height="400"/>
+  <img src="https://github.com/k660323/MapleWar/blob/main/Images/%EC%A0%84%ED%88%AC%20%EC%95%95%EC%B6%95%ED%8E%B8.png" width="99%" height="600"/>
   
   < 게임 플레이 사진 >
 </div>
