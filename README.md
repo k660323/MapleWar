@@ -2,6 +2,7 @@
 ## 1. 소개
 
 <div align="center">
+  
   <img src="https://github.com/k660323/MapleWar/blob/main/Images/%EB%A9%94%EC%9D%B8%20%ED%99%94%EB%A9%B4.PNG" width="49%" height="230"/>
   <img src="https://github.com/k660323/MapleWar/blob/main/Images/%EB%84%A4%EC%9E%84%ED%83%9C%EA%B7%B8%20%EC%8A%A4%ED%82%A8%20%ED%8C%90%EB%A7%A4.PNG" width="49%" height="230"/>
   <img src="https://github.com/k660323/MapleWar/blob/main/Images/%ED%94%BC%EA%B2%A9%20%EC%8A%A4%ED%82%A8%20%ED%8C%90%EB%A7%A4%20%EC%B2%AD%EC%9D%B4.PNG" width="49%" height="230"/>
