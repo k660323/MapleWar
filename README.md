@@ -2,10 +2,13 @@
 ## 1. 소개
 
 <div align="center">
-  <img src="https://github.com/k660323/FunnyLand/blob/main/Images/%EC%B5%9C%ED%9B%84%EC%9D%98%20%EC%83%9D%EC%A1%B4%EC%9E%90.JPG" width="49%" height="230"/>
-  <img src="https://github.com/k660323/FunnyLand/blob/main/Images/%EC%A2%80%EB%B9%84%20%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%8C.JPG" width="49%" height="230"/>
-  <img src="https://github.com/k660323/FunnyLand/blob/main/Images/%EC%8A%88%ED%8C%85%EC%8A%88%ED%84%B0.JPG" width="49%" height="230"/>
-  <img src="https://github.com/k660323/FunnyLand/blob/main/Images/%EB%A6%BF%EC%A7%80%20%EB%B8%94%EB%A1%9D%EC%BB%A4.JPG" width="49%" height="230"/>
+  <img src="https://github.com/k660323/MapleWar/blob/main/Images/%EB%A9%94%EC%9D%B8%20%ED%99%94%EB%A9%B4.PNG" width="49%" height="230"/>
+  <img src="https://github.com/k660323/MapleWar/blob/main/Images/%EB%84%A4%EC%9E%84%ED%83%9C%EA%B7%B8%20%EC%8A%A4%ED%82%A8%20%ED%8C%90%EB%A7%A4.PNG" width="49%" height="230"/>
+  <img src="https://github.com/k660323/MapleWar/blob/main/Images/%ED%94%BC%EA%B2%A9%20%EC%8A%A4%ED%82%A8%20%ED%8C%90%EB%A7%A4%20%EC%B2%AD%EC%9D%B4.PNG" width="49%" height="230"/>
+  <img src="https://github.com/k660323/MapleWar/blob/main/Images/%EC%9D%B8%EB%B2%A4%ED%86%A0%EB%A6%AC.PNG" width="49%" height="230"/>
+  <img src="https://github.com/k660323/MapleWar/blob/main/Images/%EB%A7%A4%EC%B9%AD%20%EC%A4%80%EB%B9%84.png" width="49%" height="230"/>
+  <img src="https://github.com/k660323/MapleWar/blob/main/Images/%EC%A7%84%EC%98%81%20%EC%84%A0%ED%83%9D.JPG" width="49%" height="230"/>
+  <img src="https://github.com/k660323/MapleWar/blob/main/Images/%EC%A0%84%ED%88%AC%20%EC%95%95%EC%B6%95%ED%8E%B8.png" width="99%" height="230"/>
   
   < 게임 플레이 사진 >
 </div>
