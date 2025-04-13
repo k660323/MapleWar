@@ -103,3 +103,6 @@
 
 ## 7. 게임 링크
 + https://maplestoryworlds.nexon.com/ko/play/198d931285cc4fa49556fd5ffa91785a/
+
+## 8. PDF
++ https://github.com/k660323/MapleWar/blob/main/PDF/Maple%20War.pdf
